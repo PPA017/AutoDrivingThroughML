@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pusca\\Desktop\\Licenta\\UnityRaceML\\UnityML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD938E9-8A9B-23AB-0577-198BFAE5735D}|Assembly-CSharp.csproj|c:\\users\\pusca\\desktop\\licenta\\unityraceml\\unityml\\assets\\scripts\\caragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD938E9-8A9B-23AB-0577-198BFAE5735D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\caragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarAgent.cs",
+              "DocumentMoniker": "C:\\Users\\pusca\\Desktop\\Licenta\\UnityRaceML\\UnityML\\Assets\\Scripts\\CarAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarAgent.cs",
+              "ToolTip": "C:\\Users\\pusca\\Desktop\\Licenta\\UnityRaceML\\UnityML\\Assets\\Scripts\\CarAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarAgent.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAwwMkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T01:48:27.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
